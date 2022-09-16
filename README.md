@@ -20,8 +20,11 @@
 * `yarn add tailwindcss postcss autoprefixer -D` + `npx tailwindcss init -p`  > Recomendo seguir o site para melhor configuração!
 * `yarn add phosphor-react`
 * `yarn add @radix-ui/react-dialog` > Criação de pop-up
+* `yarn add @radix-ui/react-checkbox`
+* `yarn add @radix-ui/react-toggle-group`
+* `yarn add axios`
 * ``
-* ``
+
 
 ## Comandos NodeJS:
 
@@ -54,3 +57,7 @@
 * PWA? Tente fazer um...
 
 * relacionar os 1kk com os ganhos de 446 > 123
+
+* keen slider > carrousel
+
+zod: blibioteca de validação
